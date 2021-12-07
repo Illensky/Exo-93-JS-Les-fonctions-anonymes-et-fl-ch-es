@@ -11,3 +11,18 @@ html {
 body {
     width: 100%;
 }
+
+.enter {
+    transform: scale(2);
+    background-color: orange;
+}
+
+.leave {
+    transform: rotate(90deg);
+    background-color: red;
+}
+
+.click {
+    transform: translate(20px);
+    background-color: green;
+}
